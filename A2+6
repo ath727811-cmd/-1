@@ -1,4 +1,4 @@
-[[ سكريبت أيهم الأسطوري - النسخة V41.6 الأصلية المعدلة ]] 
+[[ سكريبت أيهم الأسطوري - النسخة V41.7 الأصلية المعدلة ]] 
 local Player = game.Players.LocalPlayer 
 local PlayerGui = Player:WaitForChild("PlayerGui") 
 local Lighting = game:GetService("Lighting") 
